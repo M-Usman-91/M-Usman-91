@@ -4,11 +4,11 @@
 
 </div>
 
-- ⚡ I'm Computer Engineering Graduate from UET, Lahore, Pakistan.
-- 🧩 I'm ML Scientist, Data Analyst, Game Developer, Backend Developer and a pythoneer
-- 🌱 I’m currently learning new technologies
-- 👯 I’m looking to collaborate with ML Scientists, Data Analysts & Game Developers
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ I'm a Computer Engineer.
+- 🧩 I'm ML Scientist, Data Analyst, Game Developer, Backend Developer and a pythoneer.
+- 🌱 I’ve experience in Information Technology and Networking.
+- 👯 I’m looking to collaborate with ML Scientists, Data Analysts & Game Developers.
+- 🥅 2025 Goals: Contributing to more open source projects.
 
 <div align="center">
 
