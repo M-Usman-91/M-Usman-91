@@ -95,7 +95,7 @@
   <img class="darkMode" alt="M Usman Tahir Top Languages" style="padding-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Usman-91&langs_count=12&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width=35%/>
 </p>
 <br>
-<!-- <p align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Usman-91&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=M-Usman-91&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
-</p> -->
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=M-Usman-91&count_private=true&hide_border=true&bg_color=0d1117&theme=github" /> -->
+</p>
