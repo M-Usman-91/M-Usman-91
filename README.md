@@ -33,18 +33,6 @@
 
 ## Technologies Stack
 
-<!-- ```json
-{
-   "languages": ["Python", "Java", "C++", "C#", "JS", "Perl"],
-   "backend": ["NodeJS", "Flask", "Django", "SpringBoot"],
-   "frontend": ["HTML/CSS", "REACT"],
-   "databases": ["CSV", "MYSQL", "JSON", "Firebase"],
-   "ai framework": ["Scikit-learn", "TensorFlow", "Keras",,,],
-   "game developement": ["Unity Engine"]
-}
-``` -->
-
-
 <p align="left">
   <img align="left" alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>
